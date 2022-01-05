@@ -1,0 +1,9 @@
+Yorkshire terrier
+
+orkshire terrier, também chamada york e yorkie, é uma raça canina de pequeno porte do grupo dos terriers, originária do condado de Yorkshire na Inglaterra.  De acordo com a Federação Cinológica Internacional, é a raça de padrão 86, inserida no grupo 3, pertencente à seção 4.  Inicialmente criada para ser rateira, seus criadores perceberam de cedo o potencial para uma bem sucedida raça de companhia. Após cruzamentos específicos, o padrão de tamanho, beleza e comportamento foi atingido, o que o tornou um animal popular em poucos anos.
+
+Seu físico é descrito como diminuto e proporcional, de pelagem macia, lisa e comprida, o que lembra o cabelo humano. Sua coloração é difícil de ser obtida, o que o torna ainda mais interessante. Sua personalidade, descrita por alguns como grande para seu tamanho, é classificada como destemida, carinhosa, afetuosa, versátil e independente, o que atraiu a atenção dos lares do mundo inteiro, fazendo do yorkshire o cão miniatura mais popular de todos. Inteligente, é também o número um no grupo dos terriers em lista elaborada, que divide a inteligência canina em ranking.
+
+A busca pelo animal perfeito gerou problemas específicos para a saúde dos exemplares modernos, bem como características psicológicas negativas e termos inexistentes, que prejudicam o bom desenvolvimento de certos indivíduos, além dos problemas de saúde comuns a todos os caninos.
+
+Presente na cultura humana desde o seu surgimento como raça canina, foi o cão favorito na Inglaterra, o primeiro campeão nos Estados Unidos em exibição de raças, o preferido no Brasil por dez anos seguidos e o terceiro cão mais popular em Portugal. O menor de todos os terriers tem como destacados exemplares um campeão de pistas e um soldado da Segunda Guerra Mundial.
