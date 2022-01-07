@@ -1,0 +1,43 @@
+html{
+    font-family: Helvetica;
+    background-color: #ddd;
+}
+
+.container{
+    max-width: 1200px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 50px;
+    margin: 5px;
+    background-color: #fff
+}
+
+.destaque{
+    font-weight: bold;
+}
+
+/* Cabeçalho */
+.cabecalho{
+    text-align: center;
+}
+
+.titulo-principal{
+    font-size: 40px;
+}
+
+.paragrafo-principal{
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
+/**/
+/**/
+/**/
+/**/
