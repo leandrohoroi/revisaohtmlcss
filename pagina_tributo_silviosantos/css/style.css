@@ -30,14 +30,43 @@ html{
     font-style: italic;
 }
 
+/* Corpo do Site */
+.img-destaque{
+    text-align: center;
+    margin-top: 30px;
+}
 
+/* Biografia Container*/
+.biografia-container{
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #ddd;
+    border-bottom: 1px dashed #ddd;
+}
 
+/* Citações */
+.frase-container{
+    background-color: #ddd;
+    padding: 30px;
+}
 
+.frase-container blockquote{
+    font-weight: 600;
+    font-size: 30px;
+}
 
+.frase-container p{
+    font-style: italic;
+}
 
+/* Curiosidades */
+.curiosidades-container{
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #ddd;
+    border-bottom: 1px dashed #ddd;
+}
 
-
-/**/
-/**/
-/**/
-/**/
+.curiosidades-container li{
+    height: 30px;
+}
