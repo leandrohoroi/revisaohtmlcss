@@ -16,4 +16,22 @@ p, label{
 
 input {
     border: 1px solid transparent;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0px;
+}
+
+input[type=text], input[type=number], input[type=date], input[type=file]{
+    width: 400px;
+}
+
+textarea{
+    padding: 10px 5px;
+    width: 400px;
+}
+
+/* Cabeçalho da página */
+.header{
+    height: 160px;
+    padding: 20px;
+    background-color: #673ab7;
 }
